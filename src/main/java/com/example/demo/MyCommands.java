@@ -10,4 +10,10 @@ public class MyCommands {
     public int add(int a, int b) {
         return a + b;
     }
+
+    @ShellMethod("Subtract two integers.")
+    public int subtract(int a, int b) {
+        return a - b;
+    }
+
 }
