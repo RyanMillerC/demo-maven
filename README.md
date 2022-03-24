@@ -1,4 +1,4 @@
-# Spring Shell Example
+# Spring Shell Demo
 
 Demo CLI using Spring Shell (Spring Boot) built with Maven.
 
